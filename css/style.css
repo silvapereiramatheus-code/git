@@ -1,5 +1,31 @@
 .tarefas { 
-   background-color: #805555;
+   background-color: #29548F;
     font-size: 30px;
     text-align: center;
     margin-top: 20px;}
+.index { 
+   background-color: #29548F;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;}
+.diario { 
+   background-color: #29548F;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;}
+.Mensal { 
+   background-color: #29548F;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;}
+.anual { 
+   background-color: #29548F;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;}
+.pai {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
